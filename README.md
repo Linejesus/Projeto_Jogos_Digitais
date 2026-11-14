@@ -7,5 +7,5 @@ O Office Simulation é um jogo educativo em realidade virtual no qual dois jogad
 
 |       Integrante         |       RA       |               
 | ------------------------ | -------------- |
-| **Aline Rocha de Jeuss** |  22.123.106-1  |
+| **Aline Rocha de Jesus** |  22.123.106-1  |
 | **Bianca Silva Oliveira**|  22.123.113-7  |
